@@ -1,0 +1,17 @@
+body {
+  background-image: url('https://cdn0.ecologiaverde.com/es/posts/0/3/3/como_se_forman_las_nubes_1330_orig.jpg');
+  background-size: cover;
+}
+
+.custom-form {
+  border-radius: 2px;
+  background-color: orange;
+}
+
+.custom-form .form-label {
+  font-size: 20px;
+}
+
+.custom-form .form-group label {
+  font-size: 20px;
+}
